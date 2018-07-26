@@ -1,0 +1,11 @@
+D:\Bureaublad\Sie sjarp\Experiment Mk. 1\Experiment Mk. 1\bin\Debug\netcoreapp2.0\Experiment Mk. 1.deps.json
+D:\Bureaublad\Sie sjarp\Experiment Mk. 1\Experiment Mk. 1\bin\Debug\netcoreapp2.0\Experiment Mk. 1.runtimeconfig.json
+D:\Bureaublad\Sie sjarp\Experiment Mk. 1\Experiment Mk. 1\bin\Debug\netcoreapp2.0\Experiment Mk. 1.runtimeconfig.dev.json
+D:\Bureaublad\Sie sjarp\Experiment Mk. 1\Experiment Mk. 1\bin\Debug\netcoreapp2.0\Experiment Mk. 1.dll
+D:\Bureaublad\Sie sjarp\Experiment Mk. 1\Experiment Mk. 1\bin\Debug\netcoreapp2.0\Experiment Mk. 1.pdb
+D:\Bureaublad\Sie sjarp\Experiment Mk. 1\Experiment Mk. 1\obj\Debug\netcoreapp2.0\Experiment Mk. 1.csprojAssemblyReference.cache
+D:\Bureaublad\Sie sjarp\Experiment Mk. 1\Experiment Mk. 1\obj\Debug\netcoreapp2.0\Experiment Mk. 1.csproj.CoreCompileInputs.cache
+D:\Bureaublad\Sie sjarp\Experiment Mk. 1\Experiment Mk. 1\obj\Debug\netcoreapp2.0\Experiment Mk. 1.AssemblyInfoInputs.cache
+D:\Bureaublad\Sie sjarp\Experiment Mk. 1\Experiment Mk. 1\obj\Debug\netcoreapp2.0\Experiment Mk. 1.AssemblyInfo.cs
+D:\Bureaublad\Sie sjarp\Experiment Mk. 1\Experiment Mk. 1\obj\Debug\netcoreapp2.0\Experiment Mk. 1.dll
+D:\Bureaublad\Sie sjarp\Experiment Mk. 1\Experiment Mk. 1\obj\Debug\netcoreapp2.0\Experiment Mk. 1.pdb
