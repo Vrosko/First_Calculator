@@ -66,12 +66,3 @@ namespace Experiment_Mk._1
         }
     }
 }
-
-
-
-
-//int input = Int32.Parse(Console.ReadLine());
-//int input2 = Int32.Parse(Console.ReadLine());
-//int output = input + input2;
-//Console.WriteLine(output);
-//Console.ReadLine();
